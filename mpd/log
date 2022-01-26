@@ -1,0 +1,190 @@
+Jan 26 04:16 : exception: Failed to open '/home/vansh/.config/mpd/state': No such file or directory
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 26 04:17 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 26 04:17 : update: added /avid.mp3
+Jan 26 04:20 : exception: Failed to decode /home/vansh/Music/avid.mp3; Failed to open '/home/vansh/Music/avid.mp3': No such file or directory
+Jan 26 04:20 : player: played "avid.mp3"
+Jan 26 04:20 : exception: Failed to decode /home/vansh/Music/avid.mp3; Failed to open '/home/vansh/Music/avid.mp3': No such file or directory
+Jan 26 04:20 : player: played "avid.mp3"
+Jan 26 04:20 : exception: Failed to decode /home/vansh/Music/avid.mp3; Failed to open '/home/vansh/Music/avid.mp3': No such file or directory
+Jan 26 04:20 : player: played "avid.mp3"
+Jan 26 04:20 : exception: Failed to decode /home/vansh/Music/avid.mp3; Failed to open '/home/vansh/Music/avid.mp3': No such file or directory
+Jan 26 04:20 : player: played "avid.mp3"
+Jan 26 04:21 : exception: Failed to decode /home/vansh/Music/avid.mp3; Failed to open '/home/vansh/Music/avid.mp3': No such file or directory
+Jan 26 04:21 : player: played "avid.mp3"
+Jan 26 04:21 : exception: Failed to decode /home/vansh/Music/avid.mp3; Failed to open '/home/vansh/Music/avid.mp3': No such file or directory
+Jan 26 04:21 : player: played "avid.mp3"
+Jan 26 04:21 : exception: Failed to decode /home/vansh/Music/avid.mp3; Failed to open '/home/vansh/Music/avid.mp3': No such file or directory
+Jan 26 04:21 : player: played "avid.mp3"
+Jan 26 04:21 : exception: Failed to decode /home/vansh/Music/avid.mp3; Failed to open '/home/vansh/Music/avid.mp3': No such file or directory
+Jan 26 04:21 : player: played "avid.mp3"
+Jan 26 04:21 : exception: Failed to decode /home/vansh/Music/avid.mp3; Failed to open '/home/vansh/Music/avid.mp3': No such file or directory
+Jan 26 04:21 : player: played "avid.mp3"
+Jan 26 04:21 : exception: Failed to decode /home/vansh/Music/avid.mp3; Failed to open '/home/vansh/Music/avid.mp3': No such file or directory
+Jan 26 04:21 : player: played "avid.mp3"
+Jan 26 04:22 : exception: Failed to commit /home/vansh/.config/mpd/state: File exists
+Jan 26 04:48 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 26 04:48 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 26 04:48 : player: played "avid.mp3"
+Jan 26 04:48 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 26 04:48 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 26 04:48 : player: played "avid.mp3"
+Jan 26 04:54 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 26 04:54 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 26 04:55 : player: played "avid.mp3"
+Jan 26 04:56 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 26 04:56 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 26 04:57 : player: played "avid.mp3"
+Jan 26 04:57 : update: added /Dismissal.mp3
+Jan 26 04:57 : player: played "Dismissal.mp3"
+Jan 26 04:58 : player: played "Dismissal.mp3"
+Jan 26 04:58 : player: played "Dismissal.mp3"
+Jan 26 04:58 : player: played "Dismissal.mp3"
+Jan 26 04:58 : player: played "Dismissal.mp3"
+Jan 26 04:58 : player: played "Dismissal.mp3"
+Jan 26 04:58 : player: played "Dismissal.mp3"
+Jan 26 04:58 : player: played "Dismissal.mp3"
+Jan 26 04:58 : player: played "Dismissal.mp3"
+Jan 26 04:58 : player: played "Dismissal.mp3"
+Jan 26 04:58 : player: played "Dismissal.mp3"
+Jan 26 04:58 : player: played "Dismissal.mp3"
+Jan 26 04:58 : player: played "Dismissal.mp3"
+Jan 26 04:58 : player: played "Dismissal.mp3"
+Jan 26 04:58 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 26 04:58 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 26 04:58 : player: played "Dismissal.mp3"
+Jan 26 04:58 : player: played "Dismissal.mp3"
+Jan 26 04:58 : player: played "Dismissal.mp3"
+Jan 26 04:58 : player: played "Dismissal.mp3"
+Jan 26 04:59 : player: played "Dismissal.mp3"
+Jan 26 04:59 : player: played "Dismissal.mp3"
+Jan 26 05:00 : update: removing avid.mp3
+Jan 26 05:00 : update: removing Dismissal.mp3
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 26 05:02 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 26 05:02 : update: added /avid.mp3
+Jan 26 05:02 : update: added /Dismissal.mp3
+Jan 26 05:02 : player: played "Dismissal.mp3"
+Jan 26 05:02 : player: played "Dismissal.mp3"
+Jan 26 05:02 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 26 05:02 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 26 05:06 : update: removing Dismissal.mp3
+Jan 26 05:06 : update: added /Unknown Brain - Dead.mp3
+Jan 26 05:06 : player: played "Unknown Brain - Dead.mp3"
+Jan 26 05:06 : player: played "Unknown Brain - Dead.mp3"
+Jan 26 05:06 : player: played "Unknown Brain - Dead.mp3"
+Jan 26 05:06 : player: played "Unknown Brain - Dead.mp3"
+Jan 26 05:06 : player: played "Unknown Brain - Dead.mp3"
+Jan 26 05:06 : player: played "Unknown Brain - Dead.mp3"
+Jan 26 05:06 : player: played "Unknown Brain - Dead.mp3"
+Jan 26 05:06 : mad: input does not appear to be a mp3 bit stream
+[src/libmpg123/parse.c:skip_junk():1276] error: Giving up searching valid MPEG header after 65536 bytes of junk.
+Jan 26 05:06 : mpg123: mpg123_getformat() failed: A generic mpg123 error.
+Jan 26 05:07 : player: played "Unknown Brain - Dead.mp3"
+Jan 26 05:07 : player: played "Unknown Brain - Dead.mp3"
+Jan 26 05:07 : player: played "Unknown Brain - Dead.mp3"
+Jan 26 05:07 : player: played "Unknown Brain - Dead.mp3"
+Jan 26 05:07 : player: played "Unknown Brain - Dead.mp3"
+Jan 26 05:07 : player: played "Unknown Brain - Dead.mp3"
+Jan 26 05:10 : update: added /Central_Time_feat_Mick_Jenkins__(getmp3.pro).mp3
+Jan 26 05:14 : player: played "Central_Time_feat_Mick_Jenkins__(getmp3.pro).mp3"
+Jan 26 05:15 : exception: Failed to decode /home/vansh/.config/mpd/playlists/avid.mp3; Failed to open '/home/vansh/.config/mpd/playlists/avid.mp3': No such file or directory
+Jan 26 05:15 : player: played "avid.mp3"
+Jan 26 05:15 : update: removing avid.mp3
+Jan 26 05:15 : update: removing Unknown Brain - Dead.mp3
+Jan 26 05:15 : update: added /No_More_-_Verzache_(getmp3.pro).mp3
+Jan 26 05:30 : update: added /Unknown_Brain_-_DEAD_ft_KAZHI_N_(getmp3.pro).mp3
+Jan 26 05:30 : update: added /_-_Eve_MV_(getmp3.pro).mp3
+Jan 26 05:35 : player: played "_-_Eve_MV_(getmp3.pro).mp3"
+Jan 26 05:38 : player: played "Central_Time_feat_Mick_Jenkins__(getmp3.pro).mp3"
+Jan 26 05:41 : player: played "Unknown_Brain_-_DEAD_ft_KAZHI_N_(getmp3.pro).mp3"
+Jan 26 05:42 : update: added /Window_(getmp3.pro).mp3
+Jan 26 05:42 : update: added /Better_Days_(getmp3.pro).mp3
+Jan 26 05:43 : update: added /Silence_(getmp3.pro).mp3
+Jan 26 05:52 : update: removing Unknown_Brain_-_DEAD_ft_KAZHI_N_(getmp3.pro).mp3
+Jan 26 05:52 : update: added /Staisei_Riron_-_Vermont_Kiss_(getmp3.pro).mp3
+Jan 26 05:52 : update: added /Someone_Out_Of_Town_(getmp3.pro).mp3
+Jan 26 05:54 : update: added /One_Last_Kiss_(getmp3.pro).mp3
+Jan 26 05:54 : update: added /Avid_(getmp3.pro).mp3
+Jan 26 05:54 : player: played "One_Last_Kiss_(getmp3.pro).mp3"
+Jan 26 06:55 : player: played "Staisei_Riron_-_Vermont_Kiss_(getmp3.pro).mp3"
+Jan 26 06:58 : player: played "Better_Days_(getmp3.pro).mp3"
+Jan 26 07:02 : player: played "Silence_(getmp3.pro).mp3"
+Jan 26 07:05 : player: played "Someone_Out_Of_Town_(getmp3.pro).mp3"
+Jan 26 07:09 : player: played "Avid_(getmp3.pro).mp3"
+Jan 26 07:11 : player: played "Window_(getmp3.pro).mp3"
+Jan 26 07:19 : player: played "Window_(getmp3.pro).mp3"
+Jan 26 07:24 : player: played "_-_Eve_MV_(getmp3.pro).mp3"
+Jan 26 07:27 : player: played "Central_Time_feat_Mick_Jenkins__(getmp3.pro).mp3"
+Jan 26 07:31 : player: played "One_Last_Kiss_(getmp3.pro).mp3"
+Jan 26 07:35 : player: played "Silence_(getmp3.pro).mp3"
+Jan 26 07:39 : player: played "Avid_(getmp3.pro).mp3"
+Jan 26 07:43 : player: played "Staisei_Riron_-_Vermont_Kiss_(getmp3.pro).mp3"
+Jan 26 07:46 : player: played "Someone_Out_Of_Town_(getmp3.pro).mp3"
+Jan 26 07:49 : player: played "Better_Days_(getmp3.pro).mp3"
+Jan 26 07:52 : player: played "No_More_-_Verzache_(getmp3.pro).mp3"
+Jan 26 07:55 : player: played "Window_(getmp3.pro).mp3"
+Jan 26 07:59 : player: played "Staisei_Riron_-_Vermont_Kiss_(getmp3.pro).mp3"
+Jan 26 08:03 : player: played "One_Last_Kiss_(getmp3.pro).mp3"
+Jan 26 08:06 : player: played "Better_Days_(getmp3.pro).mp3"
+Jan 26 08:10 : player: played "Avid_(getmp3.pro).mp3"
+Jan 26 08:14 : player: played "Silence_(getmp3.pro).mp3"
+Jan 26 08:17 : player: played "Someone_Out_Of_Town_(getmp3.pro).mp3"
+Jan 26 08:48 : player: played "No_More_-_Verzache_(getmp3.pro).mp3"
+Jan 26 08:52 : player: played "Central_Time_feat_Mick_Jenkins__(getmp3.pro).mp3"
+Jan 26 08:57 : player: played "Better_Days_(getmp3.pro).mp3"
+Jan 26 08:59 : player: played "No_More_-_Verzache_(getmp3.pro).mp3"
+Jan 26 09:02 : player: played "No_More_-_Verzache_(getmp3.pro).mp3"
+Jan 26 09:05 : player: played "Silence_(getmp3.pro).mp3"
+Jan 26 09:08 : player: played "Better_Days_(getmp3.pro).mp3"
+Jan 26 09:10 : player: played "Window_(getmp3.pro).mp3"
+Jan 26 09:15 : player: played "_-_Eve_MV_(getmp3.pro).mp3"
+Jan 26 09:19 : player: played "Staisei_Riron_-_Vermont_Kiss_(getmp3.pro).mp3"
+Jan 26 09:23 : player: played "One_Last_Kiss_(getmp3.pro).mp3"
+Jan 26 09:26 : player: played "Someone_Out_Of_Town_(getmp3.pro).mp3"
+Jan 26 09:31 : player: played "Avid_(getmp3.pro).mp3"
+Jan 26 09:34 : player: played "Central_Time_feat_Mick_Jenkins__(getmp3.pro).mp3"
+Jan 26 10:48 : player: played "No_More_-_Verzache_(getmp3.pro).mp3"
+Jan 26 10:51 : player: played "Window_(getmp3.pro).mp3"
+Jan 26 11:06 : player: played "One_Last_Kiss_(getmp3.pro).mp3"
+Jan 26 11:09 : player: played "Central_Time_feat_Mick_Jenkins__(getmp3.pro).mp3"
+Jan 26 11:14 : player: played "Avid_(getmp3.pro).mp3"
+Jan 26 11:16 : player: played "Better_Days_(getmp3.pro).mp3"
+Jan 26 11:20 : player: played "Silence_(getmp3.pro).mp3"
+Jan 26 11:24 : player: played "_-_Eve_MV_(getmp3.pro).mp3"
+Jan 26 11:29 : player: played "Staisei_Riron_-_Vermont_Kiss_(getmp3.pro).mp3"
+Jan 26 11:32 : player: played "Someone_Out_Of_Town_(getmp3.pro).mp3"
+Jan 26 11:38 : player: played "No_More_-_Verzache_(getmp3.pro).mp3"
+Jan 26 11:43 : player: played "Avid_(getmp3.pro).mp3"
+Jan 26 11:46 : player: played "Someone_Out_Of_Town_(getmp3.pro).mp3"
+Jan 26 11:50 : player: played "One_Last_Kiss_(getmp3.pro).mp3"
+Jan 26 11:53 : player: played "Central_Time_feat_Mick_Jenkins__(getmp3.pro).mp3"
+Jan 26 11:58 : player: played "Staisei_Riron_-_Vermont_Kiss_(getmp3.pro).mp3"
+Jan 26 12:00 : player: played "Window_(getmp3.pro).mp3"
+Jan 26 12:05 : player: played "_-_Eve_MV_(getmp3.pro).mp3"
+Jan 26 12:08 : player: played "Silence_(getmp3.pro).mp3"
+Jan 26 12:11 : player: played "Better_Days_(getmp3.pro).mp3"
+Jan 26 12:28 : player: played "One_Last_Kiss_(getmp3.pro).mp3"
+Jan 26 12:31 : player: played "Central_Time_feat_Mick_Jenkins__(getmp3.pro).mp3"
+Jan 26 12:34 : player: played "Someone_Out_Of_Town_(getmp3.pro).mp3"
+Jan 26 12:39 : player: played "Avid_(getmp3.pro).mp3"
+Jan 26 12:42 : player: played "No_More_-_Verzache_(getmp3.pro).mp3"
+Jan 26 12:49 : player: played "_-_Eve_MV_(getmp3.pro).mp3"
+Jan 26 12:53 : player: played "Staisei_Riron_-_Vermont_Kiss_(getmp3.pro).mp3"
+Jan 26 12:56 : player: played "Window_(getmp3.pro).mp3"
+Jan 26 13:05 : player: played "No_More_-_Verzache_(getmp3.pro).mp3"
+Jan 26 13:10 : player: played "_-_Eve_MV_(getmp3.pro).mp3"
+Jan 26 13:12 : player: played "Better_Days_(getmp3.pro).mp3"
+Jan 26 13:15 : player: played "Someone_Out_Of_Town_(getmp3.pro).mp3"
+Jan 26 13:20 : player: played "Window_(getmp3.pro).mp3"
+Jan 26 13:25 : player: played "Avid_(getmp3.pro).mp3"
+Jan 26 13:29 : player: played "One_Last_Kiss_(getmp3.pro).mp3"
+Jan 26 13:33 : player: played "Staisei_Riron_-_Vermont_Kiss_(getmp3.pro).mp3"
+Jan 26 13:36 : player: played "Silence_(getmp3.pro).mp3"
+Jan 26 13:40 : player: played "Central_Time_feat_Mick_Jenkins__(getmp3.pro).mp3"
