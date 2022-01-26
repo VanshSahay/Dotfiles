@@ -145,6 +145,9 @@ bindsym $mod+Shift+8 move container to workspace number $ws8
 bindsym $mod+Shift+9 move container to workspace number $ws9
 bindsym $mod+Shift+0 move container to workspace number $ws10
 
+bindsym --release Print exec xfce4-screenshooter -rc
+bindsym --release Shift+Print exec xfce4-screenshooter -rs ~/Pictures/Screenshots/
+
 # reload the configuration file
 bindsym $mod+Shift+c reload
 # restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
@@ -220,6 +223,7 @@ gaps top 35
 
 # custom commands
 exec_always picom -f
-exec_always feh --bg-scale ~/Pictures/Wallpaper/unicat.png
+exec_always feh --bg-scale ~/Pictures/Wallpaper/yosemite.jpg
 for_window [class=".*"] border pixel 0
 exec_always ~/.config/polybar/launch.sh --material
+exec --no-startup-id xfce4-clipman &
