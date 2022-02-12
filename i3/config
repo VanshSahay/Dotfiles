@@ -198,7 +198,7 @@ client.urgent           $urgent-bg-color    $urgent-bg-color   $text-color      
 hide_edge_borders both
 
 gaps inner 10
-gaps outer 2
+gaps outer 3
 gaps top 35
 
 # Start i3bar to display a workspace bar (plus the system information i3status
@@ -222,8 +222,18 @@ gaps top 35
 #}
 
 # custom commands
+# compositor
 exec_always picom -f
+# Wallpaper
 exec_always feh --bg-scale ~/Pictures/Wallpaper/yosemite.jpg
+# remove borders
 for_window [class=".*"] border pixel 0
-exec dunst
+# polybar
 exec_always ~/.config/polybar/launch.sh --material
+# notification
+exec dunst
+# resize bindings without resize mode
+bindsym $mod+Ctrl+Right resize shrink width 10 px or 10 ppt
+bindsym $mod+Ctrl+Up resize grow height 10 px or 10 ppt
+bindsym $mod+Ctrl+Down resize shrink height 10 px or 10 ppt
+bindsym $mod+Ctrl+Left resize grow width 10 px or 10 ppt
